@@ -1,0 +1,285 @@
+[
+  {
+    "id": "recipe_001",
+    "name": "Classic Margherita Pizza",
+    "ingredients": [
+      "pizza dough",
+      "tomato sauce",
+      "fresh mozzarella",
+      "fresh basil",
+      "olive oil",
+      "salt"
+    ],
+    "calories": 850,
+    "dietary_tags": ["vegetarian"],
+    "cost": 6.5,
+    "aisle": "Bakery, Produce, Dairy, Pantry",
+    "instructions": "Preheat oven to 500°F. Roll out dough into a 12-inch circle. Spread tomato sauce evenly. Top with sliced mozzarella. Bake 10-12 minutes until crust is golden. Garnish with fresh basil, drizzle olive oil, and sprinkle salt."
+  },
+  {
+    "id": "recipe_002",
+    "name": "Chicken Stir-Fry with Vegetables",
+    "ingredients": [
+      "chicken breast",
+      "broccoli",
+      "bell pepper",
+      "carrot",
+      "soy sauce",
+      "garlic",
+      "ginger",
+      "vegetable oil",
+      "rice"
+    ],
+    "calories": 620,
+    "dietary_tags": ["high-protein"],
+    "cost": 8.25,
+    "aisle": "Meat, Produce, International, Pantry",
+    "instructions": "Slice chicken into thin strips. Heat oil in a wok over high heat. Stir-fry chicken until cooked through, about 5 minutes. Add broccoli, bell pepper, carrot, garlic, and ginger. Cook 3-4 minutes. Add soy sauce and toss. Serve over steamed rice."
+  },
+  {
+    "id": "recipe_003",
+    "name": "Vegetable Lentil Soup",
+    "ingredients": [
+      "red lentils",
+      "onion",
+      "carrot",
+      "celery",
+      "tomato paste",
+      "vegetable broth",
+      "cumin",
+      "turmeric",
+      "olive oil"
+    ],
+    "calories": 380,
+    "dietary_tags": ["vegan", "gluten-free"],
+    "cost": 4.75,
+    "aisle": "Produce, Canned Goods, Pantry, Spices",
+    "instructions": "Heat olive oil in a large pot. Sauté onion, carrot, and celery for 5 minutes. Add tomato paste, cumin, and turmeric. Stir for 1 minute. Add lentils and vegetable broth. Simmer 25-30 minutes until lentils are tender. Season with salt and pepper."
+  },
+  {
+    "id": "recipe_004",
+    "name": "Grilled Salmon with Quinoa and Asparagus",
+    "ingredients": [
+      "salmon fillet",
+      "quinoa",
+      "asparagus",
+      "lemon",
+      "olive oil",
+      "garlic",
+      "salt",
+      "pepper"
+    ],
+    "calories": 540,
+    "dietary_tags": ["gluten-free", "high-protein", "pescatarian"],
+    "cost": 12.5,
+    "aisle": "Seafood, Produce, Pantry, Spices",
+    "instructions": "Rinse quinoa and cook according to package instructions. Season salmon with salt, pepper, and garlic. Grill salmon skin-side down for 4-5 minutes per side. Toss asparagus with olive oil and grill 3-4 minutes. Serve salmon over quinoa with asparagus and a squeeze of lemon."
+  },
+  {
+    "id": "recipe_005",
+    "name": "Beef Tacos",
+    "ingredients": [
+      "ground beef",
+      "taco seasoning",
+      "corn tortillas",
+      "lettuce",
+      "tomato",
+      "cheddar cheese",
+      "sour cream",
+      "lime"
+    ],
+    "calories": 720,
+    "dietary_tags": ["high-protein"],
+    "cost": 7.8,
+    "aisle": "Meat, Produce, Dairy, International, Pantry",
+    "instructions": "Brown ground beef in a skillet over medium heat. Drain excess fat. Add taco seasoning and water; simmer 5 minutes. Warm tortillas. Assemble tacos with beef, shredded lettuce, diced tomato, cheese, sour cream, and a squeeze of lime."
+  },
+  {
+    "id": "recipe_006",
+    "name": "Mediterranean Chickpea Salad",
+    "ingredients": [
+      "chickpeas",
+      "cucumber",
+      "cherry tomatoes",
+      "red onion",
+      "feta cheese",
+      "kalamata olives",
+      "olive oil",
+      "red wine vinegar",
+      "oregano"
+    ],
+    "calories": 450,
+    "dietary_tags": ["vegetarian", "gluten-free"],
+    "cost": 5.6,
+    "aisle": "Canned Goods, Produce, Dairy, Pantry, Spices",
+    "instructions": "Rinse and drain chickpeas. Chop cucumber, halve tomatoes, and thinly slice red onion. Combine all ingredients in a large bowl. Crumble feta over the top. Whisk olive oil, red wine vinegar, and oregano; drizzle over salad and toss gently."
+  },
+  {
+    "id": "recipe_007",
+    "name": "Spaghetti Aglio e Olio",
+    "ingredients": [
+      "spaghetti",
+      "garlic",
+      "olive oil",
+      "red pepper flakes",
+      "parsley",
+      "salt",
+      "parmesan cheese"
+    ],
+    "calories": 580,
+    "dietary_tags": ["vegetarian"],
+    "cost": 3.9,
+    "aisle": "Pasta, Produce, Pantry, Dairy, Spices",
+    "instructions": "Cook spaghetti in salted water until al dente. Meanwhile, heat olive oil in a skillet over medium-low heat. Add sliced garlic and red pepper flakes; cook until garlic is golden. Toss drained pasta with garlic oil. Top with chopped parsley and grated parmesan."
+  },
+  {
+    "id": "recipe_008",
+    "name": "Thai Green Curry with Tofu",
+    "ingredients": [
+      "firm tofu",
+      "green curry paste",
+      "coconut milk",
+      "bamboo shoots",
+      "bell pepper",
+      "basil",
+      "jasmine rice",
+      "soy sauce"
+    ],
+    "calories": 610,
+    "dietary_tags": ["vegan", "gluten-free"],
+    "cost": 9.4,
+    "aisle": "Produce, International, Pantry, Canned Goods",
+    "instructions": "Press and cube tofu; pan-fry until golden. In a pot, heat curry paste with a splash of coconut milk. Add remaining coconut milk and bring to a simmer. Add bamboo shoots and sliced bell pepper; cook 5 minutes. Stir in tofu and basil. Serve over jasmine rice."
+  },
+  {
+    "id": "recipe_009",
+    "name": "Overnight Oats with Berries",
+    "ingredients": [
+      "rolled oats",
+      "almond milk",
+      "chia seeds",
+      "maple syrup",
+      "mixed berries",
+      "vanilla extract"
+    ],
+    "calories": 410,
+    "dietary_tags": ["vegan", "gluten-free"],
+    "cost": 3.2,
+    "aisle": "Breakfast, Dairy Alternative, Pantry, Frozen Foods",
+    "instructions": "Combine oats, almond milk, chia seeds, maple syrup, and vanilla in a jar. Stir well. Refrigerate overnight. In the morning, top with fresh or thawed mixed berries and serve cold."
+  },
+  {
+    "id": "recipe_010",
+    "name": "Turkey and Avocado Wrap",
+    "ingredients": [
+      "whole wheat tortilla",
+      "turkey breast",
+      "avocado",
+      "lettuce",
+      "tomato",
+      "mustard",
+      "mayonnaise"
+    ],
+    "calories": 520,
+    "dietary_tags": ["high-protein"],
+    "cost": 5.1,
+    "aisle": "Deli, Produce, Bakery, Pantry",
+    "instructions": "Lay tortilla flat. Spread mustard and mayonnaise. Layer turkey slices, sliced avocado, lettuce, and tomato. Roll tightly, tucking in the ends. Slice in half and serve."
+  },
+  {
+    "id": "recipe_011",
+    "name": "Mushroom Risotto",
+    "ingredients": [
+      "arborio rice",
+      "mushrooms",
+      "vegetable broth",
+      "shallot",
+      "white wine",
+      "parmesan cheese",
+      "butter",
+      "thyme"
+    ],
+    "calories": 690,
+    "dietary_tags": ["vegetarian"],
+    "cost": 7.3,
+    "aisle": "Rice, Produce, Canned Goods, Dairy, Pantry, Spices",
+    "instructions": "Sauté sliced mushrooms and shallot in butter until golden. Add arborio rice and toast 2 minutes. Deglaze with white wine. Add warm broth one ladle at a time, stirring constantly, until rice is creamy and tender. Stir in parmesan and fresh thyme."
+  },
+  {
+    "id": "recipe_012",
+    "name": "Black Bean and Corn Quesadillas",
+    "ingredients": [
+      "flour tortillas",
+      "black beans",
+      "corn",
+      "cheddar cheese",
+      "red onion",
+      "jalapeño",
+      "cilantro",
+      "lime"
+    ],
+    "calories": 560,
+    "dietary_tags": ["vegetarian"],
+    "cost": 4.6,
+    "aisle": "Bakery, Canned Goods, Frozen Foods, Dairy, Produce",
+    "instructions": "Mash half the black beans with a fork. Combine with corn, remaining beans, diced onion, jalapeño, and cilantro. Place mixture and cheese on half of each tortilla. Fold and cook in a dry skillet until golden on both sides and cheese is melted. Serve with lime wedges."
+  },
+  {
+    "id": "recipe_013",
+    "name": "Baked Lemon Herb Chicken with Roasted Potatoes",
+    "ingredients": [
+      "chicken thighs",
+      "potatoes",
+      "lemon",
+      "rosemary",
+      "thyme",
+      "garlic",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "calories": 640,
+    "dietary_tags": ["gluten-free", "high-protein"],
+    "cost": 6.9,
+    "aisle": "Meat, Produce, Spices, Pantry",
+    "instructions": "Preheat oven to 425°F. Toss halved potatoes with olive oil, garlic, and herbs. Arrange chicken thighs on a baking sheet with potatoes. Season with salt and pepper. Roast 35-40 minutes until chicken is cooked through and potatoes are golden. Squeeze lemon over before serving."
+  },
+  {
+    "id": "recipe_014",
+    "name": "Caprese Pasta Salad",
+    "ingredients": [
+      "penne pasta",
+      "cherry tomatoes",
+      "fresh mozzarella",
+      "basil",
+      "balsamic vinegar",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "calories": 500,
+    "dietary_tags": ["vegetarian"],
+    "cost": 5.4,
+    "aisle": "Pasta, Produce, Dairy, Pantry, Spices",
+    "instructions": "Cook penne according to package instructions. Drain and rinse with cold water. Toss with halved cherry tomatoes, mozzarella pearls, and torn basil. Whisk balsamic vinegar, olive oil, salt, and pepper. Drizzle over salad and toss to combine. Chill before serving."
+  },
+  {
+    "id": "recipe_015",
+    "name": "Shrimp Scampi with Zucchini Noodles",
+    "ingredients": [
+      "shrimp",
+      "zucchini",
+      "garlic",
+      "butter",
+      "lemon",
+      "white wine",
+      "red pepper flakes",
+      "parsley"
+    ],
+    "calories": 470,
+    "dietary_tags": ["gluten-free", "high-protein", "pescatarian"],
+    "cost": 10.2,
+    "aisle": "Seafood, Produce, Dairy, Pantry, Spices",
+    "instructions": "Spiralize zucchini into noodles. Melt butter in a skillet over medium heat. Add garlic and red pepper flakes; cook 1 minute. Add shrimp and cook until pink, about 2 minutes per side. Deglaze with white wine and lemon juice. Add zucchini noodles and toss 2 minutes until just tender. Garnish with parsley."
+  }
+]
